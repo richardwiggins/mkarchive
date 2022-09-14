@@ -12186,6 +12186,9 @@ body {
 h1, h2, h3, h4 {
   font-family: var(--font-primary);
   --heading-font-weight: 400;
+}
+
+h2, h3, h4 {
   text-transform: uppercase;
 }
 
@@ -12205,6 +12208,9 @@ mark {
 .text-component > * {
   --text-unit: 1em;
   --space-unit: 1em;
+}
+.text-component h1, .text-component h2, .text-component h3, .text-component h4 {
+  line-height: 1;
 }
 .text-component blockquote {
   padding-left: 1em;
@@ -12615,18 +12621,28 @@ Usage: codyhouse.co/license
 :root {
   --header-height: 60px;
   --logo-width: 180px;
-  --logo-height: 38px;
+}
+@media (min-width: 32rem) {
+  :root {
+    --logo-width: 220px;
+  }
+}
+@media (min-width: 48rem) {
+  :root {
+    --header-height: 70px;
+    --logo-width: 250px;
+  }
 }
 @media (min-width: 64rem) {
   :root {
     --header-height: 90px;
-    --logo-width: 220px;
+    --logo-width: 300px;
   }
 }
 @media (min-width: 80rem) {
   :root {
     --header-height: 100px;
-    --logo-width: 350px;
+    --logo-width: 400px;
   }
 }
 @media (min-width: 90rem) {

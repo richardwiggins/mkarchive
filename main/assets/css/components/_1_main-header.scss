@@ -12,16 +12,24 @@ Usage: codyhouse.co/license
 :root {
   --header-height: 60px;
   --logo-width: 180px;
-  --logo-height: 38px;
+
+  @include breakpoint(xs) {
+    --logo-width: 220px;
+  }
+  
+  @include breakpoint(sm) {
+    --header-height: 70px;
+    --logo-width: 250px;
+  }
 
   @include breakpoint(md) {
     --header-height: 90px;
-    --logo-width: 220px;
+    --logo-width: 300px;
   }
   
   @include breakpoint(lg) {
     --header-height: 100px;
-    --logo-width: 350px;
+    --logo-width: 400px;
   }
   
   @include breakpoint(xl) {

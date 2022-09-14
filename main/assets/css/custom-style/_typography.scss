@@ -60,6 +60,9 @@ body {
 h1, h2, h3, h4 {
   font-family: var(--font-primary);
   --heading-font-weight: 400;
+}
+
+h2, h3, h4 {
   text-transform: uppercase;
 }
 
@@ -87,6 +90,10 @@ mark {
   > * { // use Em units
     --text-unit: 1em;
     --space-unit: 1em;
+  }
+  
+  h1, h2, h3, h4 {
+    line-height: 1;
   }
 
   blockquote {
