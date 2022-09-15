@@ -428,7 +428,39 @@
   --span: 12;
 }
 
-.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12 {
+.grid-col-13 {
+  --grid-columns: 13;
+}
+
+.col-13 {
+  --span: 13;
+}
+
+.grid-col-14 {
+  --grid-columns: 14;
+}
+
+.col-14 {
+  --span: 14;
+}
+
+.grid-col-15 {
+  --grid-columns: 15;
+}
+
+.col-15 {
+  --span: 15;
+}
+
+.grid-col-16 {
+  --grid-columns: 16;
+}
+
+.col-16 {
+  --span: 16;
+}
+
+.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col-13, .col-14, .col-15, .col-16 {
   flex-basis: calc((100% - (var(--grid-columns) - var(--gap-modifier, 1)) * var(--sub-gap-x)) * var(--span) / var(--grid-columns) + (var(--span) - 1) * var(--sub-gap-x));
   max-width: calc((100% - (var(--grid-columns) - var(--gap-modifier, 1)) * var(--sub-gap-x)) * var(--span) / var(--grid-columns) + (var(--span) - 1) * var(--sub-gap-x));
 }
@@ -489,7 +521,23 @@
   --offset: 11;
 }
 
-.offset-1, .offset-2, .offset-3, .offset-4, .offset-5, .offset-6, .offset-7, .offset-8, .offset-9, .offset-10, .offset-11 {
+.offset-12 {
+  --offset: 12;
+}
+
+.offset-13 {
+  --offset: 13;
+}
+
+.offset-14 {
+  --offset: 14;
+}
+
+.offset-15 {
+  --offset: 15;
+}
+
+.offset-1, .offset-2, .offset-3, .offset-4, .offset-5, .offset-6, .offset-7, .offset-8, .offset-9, .offset-10, .offset-11, .offset-12, .offset-13, .offset-14, .offset-15 {
   margin-left: calc((100% - (var(--grid-columns) - var(--gap-modifier, 1)) * var(--sub-gap-x)) * var(--offset) / var(--grid-columns) + (var(--offset) + var(--offset-modifier, 0)) * var(--sub-gap-x));
 }
 
@@ -806,7 +854,31 @@
   .col-12\@xs {
     --span: 12;
   }
-  .col-1\@xs, .col-2\@xs, .col-3\@xs, .col-4\@xs, .col-5\@xs, .col-6\@xs, .col-7\@xs, .col-8\@xs, .col-9\@xs, .col-10\@xs, .col-11\@xs, .col-12\@xs {
+  .grid-col-13\@xs {
+    --grid-columns: 13;
+  }
+  .col-13\@xs {
+    --span: 13;
+  }
+  .grid-col-14\@xs {
+    --grid-columns: 14;
+  }
+  .col-14\@xs {
+    --span: 14;
+  }
+  .grid-col-15\@xs {
+    --grid-columns: 15;
+  }
+  .col-15\@xs {
+    --span: 15;
+  }
+  .grid-col-16\@xs {
+    --grid-columns: 16;
+  }
+  .col-16\@xs {
+    --span: 16;
+  }
+  .col-1\@xs, .col-2\@xs, .col-3\@xs, .col-4\@xs, .col-5\@xs, .col-6\@xs, .col-7\@xs, .col-8\@xs, .col-9\@xs, .col-10\@xs, .col-11\@xs, .col-12\@xs, .col-13\@xs, .col-14\@xs, .col-15\@xs, .col-16\@xs {
     flex-basis: calc((100% - (var(--grid-columns) - var(--gap-modifier, 1)) * var(--sub-gap-x)) * var(--span) / var(--grid-columns) + (var(--span) - 1) * var(--sub-gap-x));
     max-width: calc((100% - (var(--grid-columns) - var(--gap-modifier, 1)) * var(--sub-gap-x)) * var(--span) / var(--grid-columns) + (var(--span) - 1) * var(--sub-gap-x));
   }
@@ -853,7 +925,19 @@
   .offset-11\@xs {
     --offset: 11;
   }
-  .offset-1\@xs, .offset-2\@xs, .offset-3\@xs, .offset-4\@xs, .offset-5\@xs, .offset-6\@xs, .offset-7\@xs, .offset-8\@xs, .offset-9\@xs, .offset-10\@xs, .offset-11\@xs {
+  .offset-12\@xs {
+    --offset: 12;
+  }
+  .offset-13\@xs {
+    --offset: 13;
+  }
+  .offset-14\@xs {
+    --offset: 14;
+  }
+  .offset-15\@xs {
+    --offset: 15;
+  }
+  .offset-1\@xs, .offset-2\@xs, .offset-3\@xs, .offset-4\@xs, .offset-5\@xs, .offset-6\@xs, .offset-7\@xs, .offset-8\@xs, .offset-9\@xs, .offset-10\@xs, .offset-11\@xs, .offset-12\@xs, .offset-13\@xs, .offset-14\@xs, .offset-15\@xs {
     margin-left: calc((100% - (var(--grid-columns) - var(--gap-modifier, 1)) * var(--sub-gap-x)) * var(--offset) / var(--grid-columns) + (var(--offset) + var(--offset-modifier, 0)) * var(--sub-gap-x));
   }
   .offset-0\@xs {
@@ -1180,7 +1264,31 @@
   .col-12\@sm {
     --span: 12;
   }
-  .col-1\@sm, .col-2\@sm, .col-3\@sm, .col-4\@sm, .col-5\@sm, .col-6\@sm, .col-7\@sm, .col-8\@sm, .col-9\@sm, .col-10\@sm, .col-11\@sm, .col-12\@sm {
+  .grid-col-13\@sm {
+    --grid-columns: 13;
+  }
+  .col-13\@sm {
+    --span: 13;
+  }
+  .grid-col-14\@sm {
+    --grid-columns: 14;
+  }
+  .col-14\@sm {
+    --span: 14;
+  }
+  .grid-col-15\@sm {
+    --grid-columns: 15;
+  }
+  .col-15\@sm {
+    --span: 15;
+  }
+  .grid-col-16\@sm {
+    --grid-columns: 16;
+  }
+  .col-16\@sm {
+    --span: 16;
+  }
+  .col-1\@sm, .col-2\@sm, .col-3\@sm, .col-4\@sm, .col-5\@sm, .col-6\@sm, .col-7\@sm, .col-8\@sm, .col-9\@sm, .col-10\@sm, .col-11\@sm, .col-12\@sm, .col-13\@sm, .col-14\@sm, .col-15\@sm, .col-16\@sm {
     flex-basis: calc((100% - (var(--grid-columns) - var(--gap-modifier, 1)) * var(--sub-gap-x)) * var(--span) / var(--grid-columns) + (var(--span) - 1) * var(--sub-gap-x));
     max-width: calc((100% - (var(--grid-columns) - var(--gap-modifier, 1)) * var(--sub-gap-x)) * var(--span) / var(--grid-columns) + (var(--span) - 1) * var(--sub-gap-x));
   }
@@ -1227,7 +1335,19 @@
   .offset-11\@sm {
     --offset: 11;
   }
-  .offset-1\@sm, .offset-2\@sm, .offset-3\@sm, .offset-4\@sm, .offset-5\@sm, .offset-6\@sm, .offset-7\@sm, .offset-8\@sm, .offset-9\@sm, .offset-10\@sm, .offset-11\@sm {
+  .offset-12\@sm {
+    --offset: 12;
+  }
+  .offset-13\@sm {
+    --offset: 13;
+  }
+  .offset-14\@sm {
+    --offset: 14;
+  }
+  .offset-15\@sm {
+    --offset: 15;
+  }
+  .offset-1\@sm, .offset-2\@sm, .offset-3\@sm, .offset-4\@sm, .offset-5\@sm, .offset-6\@sm, .offset-7\@sm, .offset-8\@sm, .offset-9\@sm, .offset-10\@sm, .offset-11\@sm, .offset-12\@sm, .offset-13\@sm, .offset-14\@sm, .offset-15\@sm {
     margin-left: calc((100% - (var(--grid-columns) - var(--gap-modifier, 1)) * var(--sub-gap-x)) * var(--offset) / var(--grid-columns) + (var(--offset) + var(--offset-modifier, 0)) * var(--sub-gap-x));
   }
   .offset-0\@sm {
@@ -1554,7 +1674,31 @@
   .col-12\@md {
     --span: 12;
   }
-  .col-1\@md, .col-2\@md, .col-3\@md, .col-4\@md, .col-5\@md, .col-6\@md, .col-7\@md, .col-8\@md, .col-9\@md, .col-10\@md, .col-11\@md, .col-12\@md {
+  .grid-col-13\@md {
+    --grid-columns: 13;
+  }
+  .col-13\@md {
+    --span: 13;
+  }
+  .grid-col-14\@md {
+    --grid-columns: 14;
+  }
+  .col-14\@md {
+    --span: 14;
+  }
+  .grid-col-15\@md {
+    --grid-columns: 15;
+  }
+  .col-15\@md {
+    --span: 15;
+  }
+  .grid-col-16\@md {
+    --grid-columns: 16;
+  }
+  .col-16\@md {
+    --span: 16;
+  }
+  .col-1\@md, .col-2\@md, .col-3\@md, .col-4\@md, .col-5\@md, .col-6\@md, .col-7\@md, .col-8\@md, .col-9\@md, .col-10\@md, .col-11\@md, .col-12\@md, .col-13\@md, .col-14\@md, .col-15\@md, .col-16\@md {
     flex-basis: calc((100% - (var(--grid-columns) - var(--gap-modifier, 1)) * var(--sub-gap-x)) * var(--span) / var(--grid-columns) + (var(--span) - 1) * var(--sub-gap-x));
     max-width: calc((100% - (var(--grid-columns) - var(--gap-modifier, 1)) * var(--sub-gap-x)) * var(--span) / var(--grid-columns) + (var(--span) - 1) * var(--sub-gap-x));
   }
@@ -1601,7 +1745,19 @@
   .offset-11\@md {
     --offset: 11;
   }
-  .offset-1\@md, .offset-2\@md, .offset-3\@md, .offset-4\@md, .offset-5\@md, .offset-6\@md, .offset-7\@md, .offset-8\@md, .offset-9\@md, .offset-10\@md, .offset-11\@md {
+  .offset-12\@md {
+    --offset: 12;
+  }
+  .offset-13\@md {
+    --offset: 13;
+  }
+  .offset-14\@md {
+    --offset: 14;
+  }
+  .offset-15\@md {
+    --offset: 15;
+  }
+  .offset-1\@md, .offset-2\@md, .offset-3\@md, .offset-4\@md, .offset-5\@md, .offset-6\@md, .offset-7\@md, .offset-8\@md, .offset-9\@md, .offset-10\@md, .offset-11\@md, .offset-12\@md, .offset-13\@md, .offset-14\@md, .offset-15\@md {
     margin-left: calc((100% - (var(--grid-columns) - var(--gap-modifier, 1)) * var(--sub-gap-x)) * var(--offset) / var(--grid-columns) + (var(--offset) + var(--offset-modifier, 0)) * var(--sub-gap-x));
   }
   .offset-0\@md {
@@ -1928,7 +2084,31 @@
   .col-12\@lg {
     --span: 12;
   }
-  .col-1\@lg, .col-2\@lg, .col-3\@lg, .col-4\@lg, .col-5\@lg, .col-6\@lg, .col-7\@lg, .col-8\@lg, .col-9\@lg, .col-10\@lg, .col-11\@lg, .col-12\@lg {
+  .grid-col-13\@lg {
+    --grid-columns: 13;
+  }
+  .col-13\@lg {
+    --span: 13;
+  }
+  .grid-col-14\@lg {
+    --grid-columns: 14;
+  }
+  .col-14\@lg {
+    --span: 14;
+  }
+  .grid-col-15\@lg {
+    --grid-columns: 15;
+  }
+  .col-15\@lg {
+    --span: 15;
+  }
+  .grid-col-16\@lg {
+    --grid-columns: 16;
+  }
+  .col-16\@lg {
+    --span: 16;
+  }
+  .col-1\@lg, .col-2\@lg, .col-3\@lg, .col-4\@lg, .col-5\@lg, .col-6\@lg, .col-7\@lg, .col-8\@lg, .col-9\@lg, .col-10\@lg, .col-11\@lg, .col-12\@lg, .col-13\@lg, .col-14\@lg, .col-15\@lg, .col-16\@lg {
     flex-basis: calc((100% - (var(--grid-columns) - var(--gap-modifier, 1)) * var(--sub-gap-x)) * var(--span) / var(--grid-columns) + (var(--span) - 1) * var(--sub-gap-x));
     max-width: calc((100% - (var(--grid-columns) - var(--gap-modifier, 1)) * var(--sub-gap-x)) * var(--span) / var(--grid-columns) + (var(--span) - 1) * var(--sub-gap-x));
   }
@@ -1975,7 +2155,19 @@
   .offset-11\@lg {
     --offset: 11;
   }
-  .offset-1\@lg, .offset-2\@lg, .offset-3\@lg, .offset-4\@lg, .offset-5\@lg, .offset-6\@lg, .offset-7\@lg, .offset-8\@lg, .offset-9\@lg, .offset-10\@lg, .offset-11\@lg {
+  .offset-12\@lg {
+    --offset: 12;
+  }
+  .offset-13\@lg {
+    --offset: 13;
+  }
+  .offset-14\@lg {
+    --offset: 14;
+  }
+  .offset-15\@lg {
+    --offset: 15;
+  }
+  .offset-1\@lg, .offset-2\@lg, .offset-3\@lg, .offset-4\@lg, .offset-5\@lg, .offset-6\@lg, .offset-7\@lg, .offset-8\@lg, .offset-9\@lg, .offset-10\@lg, .offset-11\@lg, .offset-12\@lg, .offset-13\@lg, .offset-14\@lg, .offset-15\@lg {
     margin-left: calc((100% - (var(--grid-columns) - var(--gap-modifier, 1)) * var(--sub-gap-x)) * var(--offset) / var(--grid-columns) + (var(--offset) + var(--offset-modifier, 0)) * var(--sub-gap-x));
   }
   .offset-0\@lg {
@@ -2302,7 +2494,31 @@
   .col-12\@xl {
     --span: 12;
   }
-  .col-1\@xl, .col-2\@xl, .col-3\@xl, .col-4\@xl, .col-5\@xl, .col-6\@xl, .col-7\@xl, .col-8\@xl, .col-9\@xl, .col-10\@xl, .col-11\@xl, .col-12\@xl {
+  .grid-col-13\@xl {
+    --grid-columns: 13;
+  }
+  .col-13\@xl {
+    --span: 13;
+  }
+  .grid-col-14\@xl {
+    --grid-columns: 14;
+  }
+  .col-14\@xl {
+    --span: 14;
+  }
+  .grid-col-15\@xl {
+    --grid-columns: 15;
+  }
+  .col-15\@xl {
+    --span: 15;
+  }
+  .grid-col-16\@xl {
+    --grid-columns: 16;
+  }
+  .col-16\@xl {
+    --span: 16;
+  }
+  .col-1\@xl, .col-2\@xl, .col-3\@xl, .col-4\@xl, .col-5\@xl, .col-6\@xl, .col-7\@xl, .col-8\@xl, .col-9\@xl, .col-10\@xl, .col-11\@xl, .col-12\@xl, .col-13\@xl, .col-14\@xl, .col-15\@xl, .col-16\@xl {
     flex-basis: calc((100% - (var(--grid-columns) - var(--gap-modifier, 1)) * var(--sub-gap-x)) * var(--span) / var(--grid-columns) + (var(--span) - 1) * var(--sub-gap-x));
     max-width: calc((100% - (var(--grid-columns) - var(--gap-modifier, 1)) * var(--sub-gap-x)) * var(--span) / var(--grid-columns) + (var(--span) - 1) * var(--sub-gap-x));
   }
@@ -2349,7 +2565,19 @@
   .offset-11\@xl {
     --offset: 11;
   }
-  .offset-1\@xl, .offset-2\@xl, .offset-3\@xl, .offset-4\@xl, .offset-5\@xl, .offset-6\@xl, .offset-7\@xl, .offset-8\@xl, .offset-9\@xl, .offset-10\@xl, .offset-11\@xl {
+  .offset-12\@xl {
+    --offset: 12;
+  }
+  .offset-13\@xl {
+    --offset: 13;
+  }
+  .offset-14\@xl {
+    --offset: 14;
+  }
+  .offset-15\@xl {
+    --offset: 15;
+  }
+  .offset-1\@xl, .offset-2\@xl, .offset-3\@xl, .offset-4\@xl, .offset-5\@xl, .offset-6\@xl, .offset-7\@xl, .offset-8\@xl, .offset-9\@xl, .offset-10\@xl, .offset-11\@xl, .offset-12\@xl, .offset-13\@xl, .offset-14\@xl, .offset-15\@xl {
     margin-left: calc((100% - (var(--grid-columns) - var(--gap-modifier, 1)) * var(--sub-gap-x)) * var(--offset) / var(--grid-columns) + (var(--offset) + var(--offset-modifier, 0)) * var(--sub-gap-x));
   }
   .offset-0\@xl {
@@ -12182,14 +12410,14 @@ html:not(.js) .no-js\:is-hidden {
 
 @media (min-width: 64rem) {
   :root {
-    --text-base-size: 1.5rem;
-    --text-scale-ratio: 1.4;
+    --text-base-size: 1.7rem;
+    --text-scale-ratio: 1.35;
   }
 }
 @media (min-width: 90rem) {
   :root {
-    --text-base-size: 1.7rem;
-    --text-scale-ratio: 1.5;
+    --text-base-size: 2rem;
+    --text-scale-ratio: 1.45;
   }
 }
 body {
@@ -12207,6 +12435,10 @@ h1, h2, h3, h4 {
 
 .font-bold {
   font-family: var(--font-bold);
+}
+
+.font-secondary, code, figcaption {
+  font-family: var(--font-secondary);
 }
 
 mark {
@@ -12236,7 +12468,7 @@ mark {
 }
 .text-component figcaption {
   font-size: var(--text-sm);
-  color: var(--color-contrast-low);
+  text-align: left;
 }
 .text-component b, .text-component strong {
   font-family: var(--font-bold);
@@ -12757,7 +12989,7 @@ Usage: codyhouse.co/license
 }
 
 .header__nav-btn {
-  font-size: var(--text-lg);
+  font-size: var(--text-md);
   width: 100%;
 }
 
@@ -13027,4 +13259,16 @@ Usage: codyhouse.co/license
 .demo-scroll-fx-grid > *:nth-child(2) {
   grid-column: 3/7;
   grid-row: 2/5;
+}
+
+/* -------------------------------- 
+
+File#: _1_smooth-scrolling
+Title: Smooth Scrolling
+Descr: Replace the default browser behaviour (jump) with a smooth scrolling transition
+Usage: codyhouse.co/license
+
+-------------------------------- */
+html {
+  scroll-behavior: smooth;
 }

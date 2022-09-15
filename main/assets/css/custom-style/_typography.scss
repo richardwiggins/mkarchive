@@ -56,15 +56,15 @@
 
 @include breakpoint(md) {
   :root {
-    --text-base-size: 1.5rem;
-    --text-scale-ratio: 1.4;
+    --text-base-size: 1.7rem;
+    --text-scale-ratio: 1.35;
   }
 }
 
 @include breakpoint(xl) {
   :root {
-    --text-base-size: 1.7rem;
-    --text-scale-ratio: 1.5;
+    --text-base-size: 2rem;
+    --text-scale-ratio: 1.45;
   }
 }
 
@@ -84,6 +84,7 @@ h2, h3, h4 {
 // font family
 .font-primary { font-family: var(--font-primary); }
 .font-bold { font-family: var(--font-bold); }
+.font-secondary, code, figcaption { font-family: var(--font-secondary); }
 
 // --------------------------------
 
@@ -127,7 +128,7 @@ mark {
 
   figcaption {
     font-size: var(--text-sm);
-    color: var(--color-contrast-low);
+    text-align: left;
   }
   
   b, strong {
