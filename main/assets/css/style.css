@@ -12145,9 +12145,22 @@ html:not(.js) .no-js\:is-hidden {
   color: var(--color-primary);
 }
 
+@font-face {
+  font-family: "Open Sauce Sans";
+  src: url("../fonts/OpenSauceSans-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Open Sauce Sans Extra Bold";
+  src: url("../fonts/OpenSauceSans-Black.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
 :root {
-  --font-primary: "DM Sans", system-ui, sans-serif;
+  --font-primary: "Open Sauce Sans", system-ui, sans-serif;
   --font-secondary: "Cousine" , "DM Sans", system-ui, sans-serif;
+  --font-bold: "Open Sauce Sans Extra Bold", "DM Sans", system-ui, sans-serif;
   --text-base-size: 1.35rem;
   --text-scale-ratio: 1.3;
   --body-line-height: 1.3;
@@ -12184,16 +12197,16 @@ body {
 }
 
 h1, h2, h3, h4 {
-  font-family: var(--font-primary);
+  font-family: var(--font-bold);
   --heading-font-weight: 400;
-}
-
-h2, h3, h4 {
-  text-transform: uppercase;
 }
 
 .font-primary {
   font-family: var(--font-primary);
+}
+
+.font-bold {
+  font-family: var(--font-bold);
 }
 
 mark {
@@ -12210,7 +12223,7 @@ mark {
   --space-unit: 1em;
 }
 .text-component h1, .text-component h2, .text-component h3, .text-component h4 {
-  line-height: 1;
+  line-height: 1.1;
 }
 .text-component blockquote {
   padding-left: 1em;
@@ -12224,6 +12237,10 @@ mark {
 .text-component figcaption {
   font-size: var(--text-sm);
   color: var(--color-contrast-low);
+}
+.text-component b, .text-component strong {
+  font-family: var(--font-bold);
+  font-weight: 400;
 }
 
 .article {

@@ -6,10 +6,25 @@
 
 // --------------------------------
 
+@font-face {
+  font-family: 'Open Sauce Sans';
+  src: url('../fonts/OpenSauceSans-Regular.ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Open Sauce Sans Extra Bold';
+  src: url('../fonts/OpenSauceSans-Black.ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+
 :root {
   // font family
-  --font-primary: 'DM Sans', system-ui, sans-serif;
+  --font-primary: 'Open Sauce Sans', system-ui, sans-serif;
   --font-secondary: 'Cousine' , 'DM Sans', system-ui, sans-serif;
+  --font-bold: 'Open Sauce Sans Extra Bold', 'DM Sans', system-ui, sans-serif;
 
   // font size
   --text-base-size: 1.35rem; // body font-size
@@ -58,16 +73,17 @@ body {
 }
 
 h1, h2, h3, h4 {
-  font-family: var(--font-primary);
+  font-family: var(--font-bold);
   --heading-font-weight: 400;
 }
 
 h2, h3, h4 {
-  text-transform: uppercase;
+  // text-transform: uppercase;
 }
 
 // font family
 .font-primary { font-family: var(--font-primary); }
+.font-bold { font-family: var(--font-bold); }
 
 // --------------------------------
 
@@ -77,6 +93,8 @@ h2, h3, h4 {
 
 // link style
 a, .link {}
+
+
 
 mark {
   background-color: alpha(var(--color-accent), 0.2);
@@ -93,7 +111,7 @@ mark {
   }
   
   h1, h2, h3, h4 {
-    line-height: 1;
+    line-height: 1.1;
   }
 
   blockquote {
@@ -110,6 +128,11 @@ mark {
   figcaption {
     font-size: var(--text-sm);
     color: var(--color-contrast-low);
+  }
+  
+  b, strong {
+    font-family: var(--font-bold);
+    font-weight: 400;
   }
 }
 
