@@ -26,16 +26,18 @@
     </div> -->
     
     <div class="grid gap-xs gap-md@md">
-		  <div class="article text-component col-10@sm col-8@md margin-bottom-lg margin-bottom-sm@md">
+		  <div class="article text-component col-10@sm margin-bottom-lg margin-bottom-sm@md">
         <!-- <h1 class="color-accent">a playful peep into the Milton Keynes archives</h1> -->
         
-			  <p>REPLACE: Celebrating the 40th Anniversary of Homeworld, we produced the online events programme, visual identity, social media and print assets and micro website. We also led on press and marketing for the programme and secured a feature on BBC Look East.</p>
+			  <p>Commissioned by Milton Keynes City Council, Archive-opia brings audiences together for a series of taster activities inspired by the fascinating archive collections of Buckinghamshire County Archive, MK City Discover Centre and The Living Archive. Led by Architect and Archivist in Residence Alison Davies, in collaboration with Milton Keynes based creative agency Pooleyville, the programme features contributions from architects, invited specialists, archive partners and local communities with the overall aim of raising the profile of this internationally significant material.</p>
+        
+        <p>Talking a playful, informal approach, Archive-opia will share both known and little known aspects of MK’s local heritage whilst opening up a conversation around how Milton Keynes continues to develop its collections and how we capture the important community stories of a growing city. </p>
 		  </div>
       
       <h2 id="events" class="color-accent text-lg">events programme</h2>
       <dl class="details-list details-list--rows">
         <div class="details-list__item padding-y-md grid">
-          <dt class="margin-bottom-xxxs margin-bottom-0@md col-7@sm col-6@md font-bold padding-y-xs">Back to the Future(world)</dt>
+          <dt class="margin-bottom-xxxs margin-bottom-0@md col-7@sm col-6@md font-bold padding-y-xs">Back to the Future(world), Kents Hill</dt>
           <dd class="font-secondary letter-spacing-sm line-height-md line-height-md col-5@sm col-3@md color-contrast-medium text-right@sm text-left@md padding-y-xs">
             14-15 October
           </dd>
@@ -45,22 +47,22 @@
         </div>
       
         <div class="details-list__item padding-y-md grid">
-          <dt class="margin-bottom-xxxs margin-bottom-0@md col-7@sm col-6@md font-bold padding-y-xs">Middleton Hall</dt>
+          <dt class="margin-bottom-xxxs margin-bottom-0@md col-7@sm col-6@md font-bold padding-y-xs">You’ve never seen anywhere like it, Middleton Hall, The Centre MK</dt>
           <dd class="font-secondary letter-spacing-sm line-height-md line-height-md col-5@sm col-3@md color-contrast-medium text-right@sm text-left@md padding-y-xs">
-            18-22 October
+            18-23 October
           </dd>
           <dd class="margin-top-sm margin-top-0@md col-3@md text-right@md">
-           <a href="#0" class="btn btn--primary">Info + Booking</a>
+           <a href="events-centre-mk" class="btn btn--primary">Info + Booking</a>
           </dd>
         </div>
         
         <div class="details-list__item padding-y-md grid">
-          <dt class="margin-bottom-xxxs margin-bottom-0@md col-7@sm col-6@md font-bold padding-y-xs">Central Library</dt>
+          <dt class="margin-bottom-xxxs margin-bottom-0@md col-7@sm col-6@md font-bold padding-y-xs">Fiction, Non-Fiction, Reference, Central Milton Keynes Library</dt>
           <dd class="font-secondary letter-spacing-sm line-height-md line-height-md col-5@sm col-3@md color-contrast-medium text-right@sm text-left@md padding-y-xs">
             26-29 October
           </dd>
           <dd class="margin-top-sm margin-top-0@md col-3@md text-right@md">
-           <a href="#0" class="btn btn--primary">Info + Booking</a>
+           <a href="events-cmk-library" class="btn btn--primary">Info + Booking</a>
           </dd>
         </div>
       </dl>

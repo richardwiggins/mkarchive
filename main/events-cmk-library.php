@@ -6,55 +6,51 @@
   $head .= "/_includes/_head.php";
   include_once($head);
   ?>
-	<title>Back to the Future(world), Kents Hill - Archive-opia</title>
+  <title>Fiction, Non-Fiction, Reference, Central Milton Keynes Library - Archive-opia</title>
 </head>
 <body>
-	<?php
+  <?php
   $head = $_SERVER['DOCUMENT_ROOT'];
   $head .= "/_includes/_header.php";
   include_once($head);
   ?>
-	<div class="container padding-top-lg margin-bottom-xs">
+  <div class="container padding-top-lg margin-bottom-xs">
     <div class="article text-component">
-      <h1 class="color-accent text-lg text-xl@xs text-xxl@sm">Back to the Future(world), Kents Hill</h1>
+      <h1 class="color-accent text-lg text-xl@xs text-xxl@sm">Fiction, Non-Fiction, Reference, Central Milton Keynes Library</h1>
     </div>
   </div>
   
-	<div class="container max-width-xl padding-bottom-lg">
+  <div class="container max-width-xl padding-bottom-lg">
     <!-- <div class="article text-component margin-bottom-lg margin-bottom-sm@md">
       <h1 class="color-accent text-lg text-xl@xs text-xxl@sm">a playful peep into the Milton Keynes archives</h1>
     </div> -->
     
     <div class="grid text-component margin-bottom-md">
-		  <div class="col-10@sm">
+      <div class="col-10@sm">
         <!-- <h1 class="color-accent">a playful peep into the Milton Keynes archives</h1> -->
         
-			  <p class="text-md text-lg@md font-secondary">14-15 October 2022</p>
+        <p class="text-md text-lg@md font-secondary">26-29 October 2022</p>
         
-        <p>The Archive-opia Wikipavillon pops up in Kents Hill on the original exhibition site of Futureworld - the last of three innovative housing expos in Milton Keynes. Displaying archive images, documents and a new interpretation of the ‘lost’ art trail, the programme also includes three newly commissioned short films, created by The Living Archive, documenting insightful conversations between several of the original architects and the current residents of the houses they designed, as well as a self-guided Futureworld map.</p>
-		  </div>
+        <p>At our final destination of CMK Library, the Archive-opia Wikipavillion will take over the reference section with a display of material from the previous locations alongside creative participation activities and a special event with Architecture students from The University of Nottingham. </p>
+      </div>
       
-      <h2 id="events" class="color-accent text-lg">Back to the Future(world) programme</h2>
+      <h2 id="events" class="color-accent text-lg">Central Milton Keynes Library programme</h2>
       
-      <h3 class="color-contrast-medium text-md"><span class="font-secondary">14 October - </span>The 'Lost' Futureworld Art Trial Workshop</h3>
+      <h3 class="color-contrast-medium text-md"><span class="font-secondary">26 October 10-4pm - </span>Build your own Milton Keynes</h3>
       
       <div class="col-10@sm border-2 border-bottom border-contrast-lower padding-bottom-sm margin-bottom-xs">
-        <p>Working with invited local schools, this artist led workshop will explore the little known art trail that accompanied the launch of Futureworld in 1994. Curated by the late Edna Read - a driving force behind the development of the arts in Milton Keynes - the trail featured 40 or so artworks including a half sunken caravan and a house without walls that were dispersed around the Expo site. Drawing on photos, drawings, and archive documents from the time, local students will creatively re-imagine a new art trail for Kents Hill. </p>
-        
-        <!-- <p><a href="#0" class="btn btn--primary">Info + Booking</a></p> -->
+        <p>Led by MK City Discovery Centre’s re-enactors, this half term drop in session for all the family creatively explores building your own city. No booking required.</p>
       </div>
       
-      <h3 class="color-contrast-medium text-md"><span class="font-secondary">15 October - </span>Futureworld Walking Tours - 11am and 2pm</h3>
+      <h3 class="color-contrast-medium text-md"><span class="font-secondary">28 October 5-6:30pm - </span>Milton Keynes Overlap Pecha Kucha</h3>
       
       <div class="col-10@sm">
-        <p>Archivist in Residence Alison Davies will lead an informal walking tour around the Futureworld site. Joined by some of the original architects and artists involved, as well as current residents, and there will be an opportunity to learn more about this significant housing project and explore the interiors of several houses. Limited number of places available, so early booking advised. </p>
+        <p>Drawing inspiration from a poster discovered in the MK City Discovery Centre archive of a programme of lectures given by Milton Keynes Development Corporation at The University of Southern California in the early 1970’s, students from The University of Nottingham BA undergraduate Architecture and Environmental Design courses will re-imagine the titles of the lectures to create a contemporary response based on their own individual research into the archives of Milton Keynes.</p>
         
-        <p class="text-right@md"><a href="https://www.eventbrite.co.uk/e/archive-opia-futureworld-walking-tour-tickets-421199818997" class="btn btn--primary" target="_blank">Morning Session Booking &#x2197;</a></p>
-        
-        <p class="text-right@md"><a href="https://www.eventbrite.co.uk/e/422301955517" class="btn btn--primary" target="_blank">Afternoon Session Booking &#x2197;</a></p>
+        <p class="text-right@md"><a href="https://www.eventbrite.co.uk/e/422303279477" class="btn btn--primary" target="_blank">Booking &#x2197;</a></p>
       </div>
     </div>
-	</div>
+  </div>
   
   <div class="container max-width-xl grid gap-xs gap-md@md">
     <div class="offset-3 offset-6@md col-2@md col-3 flex items-baseline">

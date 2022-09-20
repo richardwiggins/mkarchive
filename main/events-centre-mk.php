@@ -6,55 +6,63 @@
   $head .= "/_includes/_head.php";
   include_once($head);
   ?>
-	<title>Back to the Future(world), Kents Hill - Archive-opia</title>
+  <title>You’ve never seen anywhere like it, Middleton Hall, The Centre MK - Archive-opia</title>
 </head>
 <body>
-	<?php
+  <?php
   $head = $_SERVER['DOCUMENT_ROOT'];
   $head .= "/_includes/_header.php";
   include_once($head);
   ?>
-	<div class="container padding-top-lg margin-bottom-xs">
+  <div class="container padding-top-lg margin-bottom-xs">
     <div class="article text-component">
-      <h1 class="color-accent text-lg text-xl@xs text-xxl@sm">Back to the Future(world), Kents Hill</h1>
+      <h1 class="color-accent text-lg text-xl@xs text-xxl@sm">You’ve never seen anywhere like it, Middleton Hall, The Centre MK</h1>
     </div>
   </div>
   
-	<div class="container max-width-xl padding-bottom-lg">
+  <div class="container max-width-xl padding-bottom-lg">
     <!-- <div class="article text-component margin-bottom-lg margin-bottom-sm@md">
       <h1 class="color-accent text-lg text-xl@xs text-xxl@sm">a playful peep into the Milton Keynes archives</h1>
     </div> -->
     
     <div class="grid text-component margin-bottom-md">
-		  <div class="col-10@sm">
+      <div class="col-10@sm">
         <!-- <h1 class="color-accent">a playful peep into the Milton Keynes archives</h1> -->
         
-			  <p class="text-md text-lg@md font-secondary">14-15 October 2022</p>
+        <p class="text-md text-lg@md font-secondary">18-23 October 2022</p>
         
-        <p>The Archive-opia Wikipavillon pops up in Kents Hill on the original exhibition site of Futureworld - the last of three innovative housing expos in Milton Keynes. Displaying archive images, documents and a new interpretation of the ‘lost’ art trail, the programme also includes three newly commissioned short films, created by The Living Archive, documenting insightful conversations between several of the original architects and the current residents of the houses they designed, as well as a self-guided Futureworld map.</p>
-		  </div>
+        <p>Coinciding with the Black History Month Exhibition 2022 led by World Media Initiatives CIC and partners, The Archive-opia Wikipavillion will drop into Middleton Hall displaying a 'bran tub of archival delights’ alongside a programme of talks by invited guest speakers. An informal, artist led drop in workshop session for families will also be delivered throughout. </p>
+      </div>
       
-      <h2 id="events" class="color-accent text-lg">Back to the Future(world) programme</h2>
+      <h2 id="events" class="color-accent text-lg">The Centre MK programme</h2>
       
-      <h3 class="color-contrast-medium text-md"><span class="font-secondary">14 October - </span>The 'Lost' Futureworld Art Trial Workshop</h3>
+      <h3 class="color-contrast-medium text-md"><span class="font-secondary">18 October 2pm - </span>Tim Skelton - Homeworld '81 Publication</h3>
       
       <div class="col-10@sm border-2 border-bottom border-contrast-lower padding-bottom-sm margin-bottom-xs">
-        <p>Working with invited local schools, this artist led workshop will explore the little known art trail that accompanied the launch of Futureworld in 1994. Curated by the late Edna Read - a driving force behind the development of the arts in Milton Keynes - the trail featured 40 or so artworks including a half sunken caravan and a house without walls that were dispersed around the Expo site. Drawing on photos, drawings, and archive documents from the time, local students will creatively re-imagine a new art trail for Kents Hill. </p>
-        
-        <!-- <p><a href="#0" class="btn btn--primary">Info + Booking</a></p> -->
+        <p>Ex-Milton Keynes Development Corporation member of staff and Milton Keynes Historian Tim Skelton introduces his current work on a new publication telling the story of Homeworld, the first innovative housing expo in Milton Keynes in 1981.</p>
       </div>
       
-      <h3 class="color-contrast-medium text-md"><span class="font-secondary">15 October - </span>Futureworld Walking Tours - 11am and 2pm</h3>
+      <h3 class="color-contrast-medium text-md"><span class="font-secondary">21 October 11am - </span>Callum Walker - Bucks County Archives (TBC)</h3>
+      
+      <div class="col-10@sm border-2 border-bottom border-contrast-lower padding-bottom-sm margin-bottom-xs">
+        <p>Outreach Officer Callum Walker gives an informal introduction to the Buckinghamshire County Archives, with a particular focus on the Milton Keynes Development Corporation collection. </p>
+        
+        <!-- <p class="text-right@md"><a href="https://www.eventbrite.co.uk/e/422303279477" class="btn btn--primary" target="_blank">Booking &#x2197;</a></p> -->
+      </div>
+      
+      <h3 class="color-contrast-medium text-md"><span class="font-secondary">21 October 2pm - </span>Whistlejacket - Branding the New City (TBC)</h3>
+      
+      <div class="col-10@sm border-2 border-bottom border-contrast-lower padding-bottom-sm margin-bottom-xs">
+        <p>Richard Morris, partner at branding agency Whistlejacket, introduces their recent work on the future branding of Milton Keynes. </p>
+      </div>
+      
+      <h3 class="color-contrast-medium text-md"><span class="font-secondary">22 October 2pm - </span>Ellie M Brown - The 'Golden Age’: Shopping Centres of the 1970s, then and now (TBC)</h3>
       
       <div class="col-10@sm">
-        <p>Archivist in Residence Alison Davies will lead an informal walking tour around the Futureworld site. Joined by some of the original architects and artists involved, as well as current residents, and there will be an opportunity to learn more about this significant housing project and explore the interiors of several houses. Limited number of places available, so early booking advised. </p>
-        
-        <p class="text-right@md"><a href="https://www.eventbrite.co.uk/e/archive-opia-futureworld-walking-tour-tickets-421199818997" class="btn btn--primary" target="_blank">Morning Session Booking &#x2197;</a></p>
-        
-        <p class="text-right@md"><a href="https://www.eventbrite.co.uk/e/422301955517" class="btn btn--primary" target="_blank">Afternoon Session Booking &#x2197;</a></p>
+        <p>Writer Ellie M Brown introduces her early PhD research into Shopping Centres of the 1970s and how they have been (re)adapted over time alongside changing economic, political and cultural shifts. </p>
       </div>
     </div>
-	</div>
+  </div>
   
   <div class="container max-width-xl grid gap-xs gap-md@md">
     <div class="offset-3 offset-6@md col-2@md col-3 flex items-baseline">
