@@ -35,8 +35,8 @@
       <h2 id="events" class="color-accent text-lg">events programme</h2>
       <dl class="details-list details-list--rows">
         <div class="details-list__item padding-y-md grid">
-          <dt class="margin-bottom-xxxs margin-bottom-0@md col-7@sm col-6@md font-bold">back to the future(world)</dt>
-          <dd class="line-height-md line-height-md col-5@sm col-3@md color-contrast-medium text-right@sm text-left@md">
+          <dt class="margin-bottom-xxxs margin-bottom-0@md col-7@sm col-6@md font-bold padding-y-xs">Back to the Future(world)</dt>
+          <dd class="font-secondary letter-spacing-sm line-height-md line-height-md col-5@sm col-3@md color-contrast-medium text-right@sm text-left@md padding-y-xs">
             14-15 October
           </dd>
           <dd class="margin-top-sm margin-top-0@md col-3@md text-right@md">
@@ -45,9 +45,9 @@
         </div>
       
         <div class="details-list__item padding-y-md grid">
-          <dt class="margin-bottom-xxxs margin-bottom-0@md col-7@sm col-6@md font-bold">Middleton Hall</dt>
-          <dd class="line-height-md line-height-md col-5@sm col-3@md color-contrast-medium text-right@sm text-left@md">
-            18-21 October
+          <dt class="margin-bottom-xxxs margin-bottom-0@md col-7@sm col-6@md font-bold padding-y-xs">Middleton Hall</dt>
+          <dd class="font-secondary letter-spacing-sm line-height-md line-height-md col-5@sm col-3@md color-contrast-medium text-right@sm text-left@md padding-y-xs">
+            18-22 October
           </dd>
           <dd class="margin-top-sm margin-top-0@md col-3@md text-right@md">
            <a href="#0" class="btn btn--primary">Info + Booking</a>
@@ -55,9 +55,9 @@
         </div>
         
         <div class="details-list__item padding-y-md grid">
-          <dt class="margin-bottom-xxxs margin-bottom-0@md col-7@sm col-6@md font-bold">Central Library</dt>
-          <dd class="line-height-md line-height-md col-5@sm col-3@md color-contrast-medium text-right@sm text-left@md">
-            25-??? October
+          <dt class="margin-bottom-xxxs margin-bottom-0@md col-7@sm col-6@md font-bold padding-y-xs">Central Library</dt>
+          <dd class="font-secondary letter-spacing-sm line-height-md line-height-md col-5@sm col-3@md color-contrast-medium text-right@sm text-left@md padding-y-xs">
+            26-29 October
           </dd>
           <dd class="margin-top-sm margin-top-0@md col-3@md text-right@md">
            <a href="#0" class="btn btn--primary">Info + Booking</a>
@@ -133,14 +133,16 @@
     </div>
     
     <div class="container max-width-xl grid gap-xs gap-md@md padding-y-lg color-white">
-      <div class="text-component order-2@md col-10@sm col-8@md col-7@lg col-6@xl offset-1@xl margin-bottom-lg">
+      <div class="text-component order-2@md col-10@sm col-6@md col-6@lg col-6@xl offset-1@md margin-bottom-lg">
         <h3 class="color-white">WikiPavilion</h3>
         
         <p>WikiPavilion is a new pop-up structure designed to support the Archive-opia project.  It will relocate to different locations in the city, as a venue for exhibitions and events.  It is also a prototype of the WikiHouse Skylark system: an ingenious and low-cost construction method, laser-cut from standard sheets of plywood and slotted together without mechanical fixings.  As its name implies, the WikiHouse system is also 'open-source', designed to democratise housing design.</p>
+        
+        <p>WikiPavilion will appear in different locations across Milton Keynes during the month of October, including Kents Hill on 14th and 15th, Middleton Hall from 18th to 22nd, and MK Central Library from 26th to 30th.</p>
       </div>
-      <div class="text-component order-1@md col-6@sm offset-6@sm offset-0@md col-4@md col-5@lg">
+      <div class="text-component order-1@md col-9@sm offset-3@sm offset-0@md col-5@md col-5@lg">
         <figure>
-          <img src="assets/img/wikipavillion.png" alt="">
+          <img src="assets/img/wikipavillion-full.png" alt="WikiPavilion is a collaboration between Pooleyville, Urban Fabric Architects, and WikiHouse">
           <figcaption class="padding-top-sm">WikiPavilion is a collaboration between Pooleyville, Urban Fabric Architects, and WikiHouse.</figcaption>
         </figure>
       </div>

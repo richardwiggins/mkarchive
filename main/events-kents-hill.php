@@ -46,8 +46,8 @@
       <h2 id="events" class="color-accent text-lg">back to the future(world) programme</h2>
       <dl class="details-list details-list--rows">
         <div class="details-list__item padding-y-md grid">
-          <dt class="margin-bottom-xxxs margin-bottom-0@md col-7@sm col-6@md font-bold">schools engagement activity</dt>
-          <dd class="line-height-md line-height-md col-5@sm col-3@md color-contrast-medium text-right@sm text-left@md">
+          <dt class="margin-bottom-xxxs margin-bottom-0@md col-7@sm col-6@md font-bold padding-y-xs">schools engagement activity</dt>
+          <dd class="font-secondary letter-spacing-sm line-height-md line-height-md col-5@sm col-3@md color-contrast-medium text-right@sm text-left@md padding-y-xs">
             Friday 14 October
           </dd>
           <dd class="margin-top-sm margin-top-0@md col-3@md text-right@md">
@@ -56,8 +56,8 @@
         </div>
       
         <div class="details-list__item padding-y-md grid">
-          <dt class="margin-bottom-xxxs margin-bottom-0@md col-7@sm col-6@md font-bold">walking tours</dt>
-          <dd class="line-height-md line-height-md col-5@sm col-3@md color-contrast-medium text-right@sm text-left@md">
+          <dt class="margin-bottom-xxxs margin-bottom-0@md col-7@sm col-6@md font-bold padding-y-xs">walking tours</dt>
+          <dd class="font-secondary letter-spacing-sm line-height-md line-height-md col-5@sm col-3@md color-contrast-medium text-right@sm text-left@md padding-y-xs">
             Saturday 15 October
           </dd>
           <dd class="margin-top-sm margin-top-0@md col-3@md text-right@md">
@@ -66,8 +66,8 @@
         </div>
         
         <div class="details-list__item padding-y-md grid">
-          <dt class="margin-bottom-xxxs margin-bottom-0@md col-7@sm col-6@md font-bold">filming interviews for Living Archive</dt>
-          <dd class="line-height-md line-height-md col-5@sm col-3@md color-contrast-medium text-right@sm text-left@md">
+          <dt class="margin-bottom-xxxs margin-bottom-0@md col-7@sm col-6@md font-bold padding-y-xs">filming interviews for Living Archive</dt>
+          <dd class="font-secondary letter-spacing-sm line-height-md line-height-md col-5@sm col-3@md color-contrast-medium text-right@sm text-left@md padding-y-xs">
             Friday 14 & Monday 17 October
           </dd>
           <dd class="margin-top-sm margin-top-0@md col-3@md text-right@md">
