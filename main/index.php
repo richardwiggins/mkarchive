@@ -37,7 +37,7 @@
       <h2 id="events" class="color-accent text-lg">events programme</h2>
       <dl class="details-list details-list--rows">
         <div class="details-list__item padding-y-md grid">
-          <dt class="margin-bottom-xxxs margin-bottom-0@md col-7@sm col-6@md font-bold padding-y-xs">Back to the Future(world), Kents Hill</dt>
+          <dt class="margin-bottom-xxxs margin-bottom-0@md col-7@sm col-6@md font-bold padding-y-xs">Back to the Future(world),<br>Kents Hill</dt>
           <dd class="font-secondary letter-spacing-sm line-height-md line-height-md col-5@sm col-3@md color-contrast-medium text-right@sm text-left@md padding-y-xs">
             14-15 October
           </dd>
@@ -47,7 +47,7 @@
         </div>
       
         <div class="details-list__item padding-y-md grid">
-          <dt class="margin-bottom-xxxs margin-bottom-0@md col-7@sm col-6@md font-bold padding-y-xs">You’ve never seen anywhere like it, Middleton Hall, The Centre MK</dt>
+          <dt class="margin-bottom-xxxs margin-bottom-0@md col-7@sm col-6@md font-bold padding-y-xs">You’ve never seen anywhere like it,<br>Middleton Hall, The Centre MK</dt>
           <dd class="font-secondary letter-spacing-sm line-height-md line-height-md col-5@sm col-3@md color-contrast-medium text-right@sm text-left@md padding-y-xs">
             18-23 October
           </dd>
@@ -57,12 +57,22 @@
         </div>
         
         <div class="details-list__item padding-y-md grid">
-          <dt class="margin-bottom-xxxs margin-bottom-0@md col-7@sm col-6@md font-bold padding-y-xs">Fiction, Non-Fiction, Reference, Central Milton Keynes Library</dt>
+          <dt class="margin-bottom-xxxs margin-bottom-0@md col-7@sm col-6@md font-bold padding-y-xs">Fiction, Non-Fiction, Reference,<br>Central Milton Keynes Library</dt>
           <dd class="font-secondary letter-spacing-sm line-height-md line-height-md col-5@sm col-3@md color-contrast-medium text-right@sm text-left@md padding-y-xs">
             26-29 October
           </dd>
           <dd class="margin-top-sm margin-top-0@md col-3@md text-right@md">
            <a href="events-cmk-library" class="btn btn--primary">Info + Booking</a>
+          </dd>
+        </div>
+        
+        <div class="details-list__item padding-y-md grid">
+          <dt class="margin-bottom-xxxs margin-bottom-0@md col-7@sm col-6@md font-bold padding-y-xs">Associated Events</dt>
+          <dd class="font-secondary letter-spacing-sm line-height-md line-height-md col-5@sm col-3@md color-contrast-medium text-right@sm text-left@md padding-y-xs">
+            21-31 October
+          </dd>
+          <dd class="margin-top-sm margin-top-0@md col-3@md text-right@md">
+           <a href="events-associated" class="btn btn--primary">Info + Booking</a>
           </dd>
         </div>
       </dl>

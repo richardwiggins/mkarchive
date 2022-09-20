@@ -6,51 +6,59 @@
   $head .= "/_includes/_head.php";
   include_once($head);
   ?>
-  <title>Fiction, Non-Fiction, Reference, Central Milton Keynes Library - Archive-opia</title>
+	<title>Associated Events - Archive-opia</title>
 </head>
 <body>
-  <?php
+	<?php
   $head = $_SERVER['DOCUMENT_ROOT'];
   $head .= "/_includes/_header.php";
   include_once($head);
   ?>
-  <div class="container padding-top-lg margin-bottom-xs">
+	<div class="container padding-top-lg margin-bottom-xs">
     <div class="article text-component">
-      <h1 class="color-accent text-lg text-xl@xs text-xxl@sm">Fiction, Non-Fiction, Reference, Central Milton Keynes Library</h1>
+      <h1 class="color-accent text-lg text-xl@xs text-xxl@sm">Associated Events</h1>
     </div>
   </div>
   
-  <div class="container max-width-xl padding-bottom-lg">
+	<div class="container max-width-xl padding-bottom-lg">
     <!-- <div class="article text-component margin-bottom-lg margin-bottom-sm@md">
       <h1 class="color-accent text-lg text-xl@xs text-xxl@sm">a playful peep into the Milton Keynes archives</h1>
     </div> -->
     
     <div class="grid text-component margin-bottom-md">
-      <div class="col-10@sm">
+		  <div class="col-10@sm">
         <!-- <h1 class="color-accent">a playful peep into the Milton Keynes archives</h1> -->
         
-        <p class="text-md text-lg@md font-secondary">26-29 October 2022</p>
-        
-        <p>At our final destination of CMK Library, the Archive-opia Wikipavillion will take over the reference section with a display of material from the previous locations alongside creative participation activities and a special event with Architecture students from The University of Nottingham. </p>
-      </div>
+			  <p class="text-md text-lg@md font-secondary">21-31 October 2022</p>
+		  </div>
       
-      <h2 id="events" class="color-accent text-lg">Central Milton Keynes Library programme</h2>
+      <!-- <h2 id="events" class="color-accent text-lg">Back to the Future(world) programme</h2> -->
       
-      <h3 class="color-contrast-medium text-md"><span class="font-secondary">26 October 10am-4pm - </span>Build your own Milton Keynes</h3>
+      <h3 class="color-contrast-medium text-md"><span class="font-secondary">21-22 October - </span>RTPI Young Planners Conference, Hotel La Tour</h3>
       
       <div class="col-10@sm border-2 border-bottom border-contrast-lower padding-bottom-sm margin-bottom-xs">
-        <p>Led by MK City Discovery Centre’s re-enactors, this half term drop in session for all the family creatively explores building your own city. No booking required.</p>
+        <p>The RTPI Young Planners’ Conference, hosted by the Thames Valley Young Planners Committee (TVYP), is being held in Milton Keynes this year. Throughout the two-day conference, delegates will have the opportunity to listen to a wide range of quality speakers, take part in interactive sessions and put their views across.</p>
+        
+        <p>Focusing on the theme of ’Utopia or Dystopia’, speakers come from a mix of political, development, public sector, educational and voluntary backgrounds. The conference will explore the theme through a range of sessions which will seek to encourage constructive thinking and debate as to what makes a place a utopia or dystopia as well as a variety of virtual and in-person study tours, networking and breakout sessions. The conference will challenge Young Planners to critique modern planning and how we as a community can strive for utopian successes whilst avoiding dystopian effects.</p>
+        
+        <p class="text-right@md"><a href="https://www.rtpi.org.uk/events/2022/october/young-planners-conference/" class="btn btn--primary" target="_blank">Booking &#x2197;</a></p>
       </div>
       
-      <h3 class="color-contrast-medium text-md"><span class="font-secondary">28 October 5pm-6:30pm - </span>Milton Keynes Overlap Pecha Kucha</h3>
+      <h3 class="color-contrast-medium text-md"><span class="font-secondary">29 October - </span>DETAILS Tour Milton Keynes (TBC)</h3>
+      
+      <div class="col-10@sm border-2 border-bottom border-contrast-lower padding-bottom-sm margin-bottom-xs">
+        <p>Led by Architect Wayne Head of CLTH, the DETAILS Tour Milton Keynes invites local young people to explore several CMK buildings included in their recently published booklet. </p>
+      </div>
+      
+      <h3 class="color-contrast-medium text-md"><span class="font-secondary">31 October 9.30am-1pm - </span>Archiving Milton Keynes, Milton Keynes Museum</h3>
       
       <div class="col-10@sm">
-        <p>Drawing inspiration from a poster discovered in the MK City Discovery Centre archive of a programme of lectures given by Milton Keynes Development Corporation at The University of Southern California in the early 1970’s, students from The University of Nottingham BA undergraduate Architecture and Environmental Design courses will re-imagine the titles of the lectures to create a contemporary response based on their own individual research into the archives of Milton Keynes.</p>
+        <p>Archiving Milton Keynes will introduce the recent project work, led by MK City Council, that aims to eventually bring the nationally significant archives of Milton Keynes together into one shared space. This event will explore the different forms an archive can take, how archives convey people’s passion and emotions, and what a City Archive of the future might look like and collect. There will be a networking aspect to the forum, where new conversations and thoughts about what the arts and heritage sector can contribute to the project. This event is delivered in collaboration with Arts & Heritage Alliance Milton Keynes.</p>
         
-        <p class="text-right@md"><a href="https://www.eventbrite.co.uk/e/422303279477" class="btn btn--primary" target="_blank">Booking &#x2197;</a></p>
+        <p class="text-right@md"><a href="https://aha-mk.org" class="btn btn--primary" target="_blank">Booking &#x2197;</a></p>
       </div>
     </div>
-  </div>
+	</div>
   
   <div class="container max-width-xl grid gap-xs gap-md@md">
     <div class="offset-3 offset-6@md col-2@md col-3 flex items-baseline">
