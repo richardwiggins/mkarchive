@@ -59,7 +59,7 @@
         <div class="details-list__item padding-y-md grid">
           <dt class="margin-bottom-xxxs margin-bottom-0@md col-7@sm col-6@md font-bold padding-y-xs">Fiction, Non-Fiction, Reference,<br>Central Milton Keynes Library</dt>
           <dd class="font-secondary letter-spacing-sm line-height-md line-height-md col-5@sm col-3@md color-contrast-medium text-right@sm text-left@md padding-y-xs">
-            26-29 October
+            19-29 October
           </dd>
           <dd class="margin-top-sm margin-top-0@md col-3@md text-right@md">
            <a href="events-cmk-library" class="btn btn--primary">Info + Booking</a>

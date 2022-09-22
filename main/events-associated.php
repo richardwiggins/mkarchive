@@ -44,12 +44,6 @@
         <p class="text-right@md"><a href="https://www.rtpi.org.uk/events/2022/october/young-planners-conference/" class="btn btn--primary" target="_blank">Booking &#x2197;</a></p>
       </div>
       
-      <h3 class="color-contrast-medium text-md"><span class="font-secondary">29 October - </span>DETAILS Tour Milton Keynes (TBC)</h3>
-      
-      <div class="col-10@sm border-2 border-bottom border-contrast-lower padding-bottom-sm margin-bottom-xs">
-        <p>Led by Architect Wayne Head of CLTH, the DETAILS Tour Milton Keynes invites local young people to explore several CMK buildings included in their recently published booklet. </p>
-      </div>
-      
       <h3 class="color-contrast-medium text-md"><span class="font-secondary">31 October 9.30am-1pm - </span>Archiving Milton Keynes, Milton Keynes Museum</h3>
       
       <div class="col-10@sm">

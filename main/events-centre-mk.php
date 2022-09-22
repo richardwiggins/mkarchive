@@ -42,7 +42,7 @@
         <p>Ex-Milton Keynes Development Corporation member of staff and Milton Keynes Historian Tim Skelton introduces his current work on a new publication telling the story of Homeworld, the first innovative housing expo in Milton Keynes in 1981.</p>
       </div>
       
-      <h3 class="color-contrast-medium text-md"><span class="font-secondary">21 October 11am - </span>Callum Walker - Bucks County Archives (TBC)</h3>
+      <h3 class="color-contrast-medium text-md"><span class="font-secondary">21 October 11am - </span>Callum Walker - Bucks County Archives.</h3>
       
       <div class="col-10@sm border-2 border-bottom border-contrast-lower padding-bottom-sm margin-bottom-xs">
         <p>Outreach Officer Callum Walker gives an informal introduction to the Buckinghamshire County Archives, with a particular focus on the Milton Keynes Development Corporation collection. </p>
@@ -50,13 +50,13 @@
         <!-- <p class="text-right@md"><a href="https://www.eventbrite.co.uk/e/422303279477" class="btn btn--primary" target="_blank">Booking &#x2197;</a></p> -->
       </div>
       
-      <h3 class="color-contrast-medium text-md"><span class="font-secondary">21 October 2pm - </span>Whistlejacket - Branding the New City (TBC)</h3>
+      <h3 class="color-contrast-medium text-md"><span class="font-secondary">21 October 2pm - </span>Whistlejacket - Branding the New City</h3>
       
       <div class="col-10@sm border-2 border-bottom border-contrast-lower padding-bottom-sm margin-bottom-xs">
         <p>Richard Morris, partner at branding agency Whistlejacket, introduces their recent work on the future branding of Milton Keynes. </p>
       </div>
       
-      <h3 class="color-contrast-medium text-md"><span class="font-secondary">22 October 2pm - </span>Ellie M Brown - The 'Golden Age’: Shopping Centres of the 1970s, then and now (TBC)</h3>
+      <h3 class="color-contrast-medium text-md"><span class="font-secondary">22 October 2pm - </span>Ellie M Brown - The 'Golden Age’: Shopping Centres of the 1970s, then and now.</h3>
       
       <div class="col-10@sm">
         <p>Writer Ellie M Brown introduces her early PhD research into Shopping Centres of the 1970s and how they have been (re)adapted over time alongside changing economic, political and cultural shifts. </p>
