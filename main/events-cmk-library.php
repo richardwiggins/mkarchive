@@ -6,7 +6,7 @@
   $head .= "/_includes/_head.php";
   include_once($head);
   ?>
-  <title>Fiction, Non-Fiction, Reference, Central Milton Keynes Library - Archive-opia</title>
+  <title>Fiction, Non-Fiction, Reference, Archive - Central Milton Keynes Library - Archive-opia</title>
 </head>
 <body>
   <?php
@@ -16,7 +16,7 @@
   ?>
   <div class="container padding-top-lg margin-bottom-xs">
     <div class="article text-component">
-      <h1 class="color-accent text-lg text-xl@xs text-xxl@sm">Fiction, Non-Fiction, Reference, Central Milton Keynes Library</h1>
+      <h1 class="color-accent text-lg text-xl@xs text-xxl@sm">Fiction, Non-Fiction, Reference, Archive - Central Milton Keynes Library</h1>
     </div>
   </div>
   
@@ -31,15 +31,15 @@
         
         <p class="text-md text-lg@md font-secondary">19-29 October 2022</p>
         
-        <p>At our final destination of CMK Library, the Archive-opia Wikipavillion will take over the reference section with a display of material from the previous locations alongside creative participation activities and a special event with Architecture students from The University of Nottingham. </p>
+        <p>At its final destination in the Central Library, in Half Term 26 – 29 October, the Archive-opia WikiPavilion will take over the reference section with a display of material from its previous locations alongside creative participation activities for children and families and a special event with Architecture students from The University of Nottingham.</p>
       </div>
       
       <h2 id="events" class="color-accent text-lg">Central Milton Keynes Library programme</h2>
       
-      <h3 class="color-contrast-medium text-md"><span class="font-secondary">19-20 October 9:30am-4pm - </span>International New Towns Institute: How do you archive the contemporary city?</h3>
+      <h3 class="color-contrast-medium text-md"><span class="font-secondary">19-20 October 9:30am-4pm (online) - </span>International New Towns Institute: How do you archive the contemporary city?</h3>
       
       <div class="col-10@sm border-2 border-bottom border-contrast-lower padding-bottom-sm margin-bottom-xs">
-        <p>Running in parallel with the programme in Middleton Hall, this two day interactive workshop led by Rotterdam based International New Towns Institute aims to explore how Milton Keynes develops its future archives as a newly confirmed city and what are the emotive stories that are important to local communities to collect.</p>
+        <p>Running in parallel with the programme in Middleton Hall, this two day interactive online workshop led by the Rotterdam based International New Towns Institute explores how Milton Keynes both celebrates its new town archives, how it develops its future archives for the new city and what are the emotive stories that are important to residents and local communities for a new City Archive to collect.</p>
         
         <p class="text-right@md"><a href="https://www.eventbrite.co.uk/e/archive-opia-how-do-you-archive-the-contemporary-city-tickets-406697722837" class="btn btn--primary" target="_blank">Booking &#x2197;</a></p>
       </div>
@@ -47,7 +47,7 @@
       <h3 class="color-contrast-medium text-md"><span class="font-secondary">26 October 10am-4pm - </span>Build your own Milton Keynes</h3>
       
       <div class="col-10@sm border-2 border-bottom border-contrast-lower padding-bottom-sm margin-bottom-xs">
-        <p>Come and meet Fred Lloyd Roche - the General Manager of Milton Keynes Development Corporation! Hear his thoughts on the New Town of Milton Keynes and where it might go in the future. Margaret Durbridge, the first female MKDC Board member, will talk you through designing your own New Town - will this be the Milton Keynes of a new age? And why not walk the map of MK - can you find your grid square, or hasn't it been built yet? And finally, while you are doing this, perhaps you might like to have a chat with our friendly community worker? She has come back especially from the past to help you settle into your new city!</p>
+        <p>Come and meet Fred Lloyd Roche - the General Manager of Milton Keynes Development Corporation! Hear his thoughts on the New Town of Milton Keynes and where it might go in the future. Margaret Durbridge, the first female MKDC Board member, will talk you through designing your own New Town - will this be the Milton Keynes of a new age? And why not walk our giant map of MK - can you find your grid square, or hasn't it been built yet? And have a chat with our friendly community worker, who has come back especially from the past to help you settle into your new city!</p>
       </div>
       
       <h3 class="color-contrast-medium text-md"><span class="font-secondary">28 October 5pm-6:30pm - </span>Milton Keynes Overlap Pecha Kucha</h3>

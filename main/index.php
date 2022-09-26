@@ -29,9 +29,9 @@
 		  <div class="article text-component col-10@sm margin-bottom-lg margin-bottom-sm@md">
         <!-- <h1 class="color-accent">a playful peep into the Milton Keynes archives</h1> -->
         
-			  <p>Commissioned by Milton Keynes City Council, Archive-opia brings audiences together for a series of taster activities inspired by the fascinating archive collections of Buckinghamshire County Archive, MK City Discover Centre and The Living Archive. Led by Architect and Archivist in Residence Alison Davies, in collaboration with Milton Keynes based creative agency Pooleyville, the programme features contributions from architects, invited specialists, archive partners and local communities with the overall aim of raising the profile of this internationally significant material.</p>
+			  <p>Commissioned by Milton Keynes City Council, Archive-opia brings audiences together for a series of FREE taster activities inspired by the fascinating archive collections of Buckinghamshire County Archive, MK City Discovery Centre and The Living Archive MK. Led by Architect and Archivist in Residence Alison Davies, in collaboration with Milton Keynes based creative agency Pooleyville, the programme features contributions from architects, invited specialists, archive partners and local communities with the overall aim of raising the profile of this internationally significant material and informing the plan for a new City Archive for Milton Keynes.</p>
         
-        <p>Talking a playful, informal approach, Archive-opia will share both known and little known aspects of MK’s local heritage whilst opening up a conversation around how Milton Keynes continues to develop its collections and how we capture the important community stories of a growing city. </p>
+        <p>Talking a playful, informal approach, and including the launch of the new and amazing WikiPavilion, Archive-opia will share both known and little known aspects of MK’s local heritage whilst opening up a conversation around how Milton Keynes continues to develop its archive collections and how we capture the important community stories of a growing city. </p>
 		  </div>
       
       <h2 id="events" class="color-accent text-lg">events programme</h2>
@@ -57,7 +57,7 @@
         </div>
         
         <div class="details-list__item padding-y-md grid">
-          <dt class="margin-bottom-xxxs margin-bottom-0@md col-7@sm col-6@md font-bold padding-y-xs">Fiction, Non-Fiction, Reference,<br>Central Milton Keynes Library</dt>
+          <dt class="margin-bottom-xxxs margin-bottom-0@md col-7@sm col-6@md font-bold padding-y-xs">Fiction, Non-Fiction, Reference, Archive - <br>Central Milton Keynes Library</dt>
           <dd class="font-secondary letter-spacing-sm line-height-md line-height-md col-5@sm col-3@md color-contrast-medium text-right@sm text-left@md padding-y-xs">
             19-29 October
           </dd>

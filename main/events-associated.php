@@ -34,7 +34,7 @@
       
       <!-- <h2 id="events" class="color-accent text-lg">Back to the Future(world) programme</h2> -->
       
-      <h3 class="color-contrast-medium text-md"><span class="font-secondary">21-22 October - </span>RTPI Young Planners Conference, Hotel La Tour</h3>
+      <h3 class="color-contrast-medium text-md"><span class="font-secondary">21-22 October - </span>RTPI Young Planners Conference, Hotel La Tour (charges apply and a waiting list)</h3>
       
       <div class="col-10@sm border-2 border-bottom border-contrast-lower padding-bottom-sm margin-bottom-xs">
         <p>The RTPI Young Planners’ Conference, hosted by the Thames Valley Young Planners Committee (TVYP), is being held in Milton Keynes this year. Throughout the two-day conference, delegates will have the opportunity to listen to a wide range of quality speakers, take part in interactive sessions and put their views across.</p>
@@ -44,10 +44,10 @@
         <p class="text-right@md"><a href="https://www.rtpi.org.uk/events/2022/october/young-planners-conference/" class="btn btn--primary" target="_blank">Booking &#x2197;</a></p>
       </div>
       
-      <h3 class="color-contrast-medium text-md"><span class="font-secondary">31 October 9.30am-1pm - </span>Archiving Milton Keynes, Milton Keynes Museum</h3>
+      <h3 class="color-contrast-medium text-md"><span class="font-secondary">31 October 9.30am-1pm - </span>Arts and Heritage Alliance MK Forum Event - Archiving Milton Keynes, Milton Keynes Museum</h3>
       
       <div class="col-10@sm">
-        <p>Archiving Milton Keynes will introduce the recent project work, led by MK City Council, that aims to eventually bring the nationally significant archives of Milton Keynes together into one shared space. This event will explore the different forms an archive can take, how archives convey people’s passion and emotions, and what a City Archive of the future might look like and collect. There will be a networking aspect to the forum, where new conversations and thoughts about what the arts and heritage sector can contribute to the project. This event is delivered in collaboration with Arts & Heritage Alliance Milton Keynes.</p>
+        <p>Archiving Milton Keynes will introduce the recent project work, led by MK City Council, that aims to eventually bring the nationally significant archives of Milton Keynes together into one shared space. This event for Arts and Heritage Alliance Members and interested groups across Milton Keynes, will explore the different forms an archive can take, how archives convey people’s passion and emotions, and what a City Archive of the future might look like and collect. There will be a networking aspect to the Forum, where new conversations and thoughts about what the arts and heritage sector can contribute to the project. This event is delivered in collaboration with Milton Keynes Museum.</p>
         
         <p class="text-right@md"><a href="https://aha-mk.org" class="btn btn--primary" target="_blank">Booking &#x2197;</a></p>
       </div>

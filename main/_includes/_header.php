@@ -16,8 +16,8 @@
 		  <ul class="header__list">
 			<!-- <li class="header__item"><a href="/#events" class="header__link js-smooth-scroll" data-duration="300">Events</a></li>
 			<li class="header__item"><a href="#0" class="header__link">Activities</a></li> -->
-			<!-- <li class="header__item"><a href="#0" class="header__link" aria-current="page">Resources</a></li> -->
-			<!-- <li class="header__item header__item--divider" aria-hidden="true"></li> -->
+				<li class="header__item"><a href="https://www.milton-keynes.gov.uk/culture/cultural-commissions/mk-city-archive" class="header__link" aria-current="page">The City Archive</a></li>
+				<!-- <li class="header__item header__item--divider" aria-hidden="true"></li> -->
 				<li class="header__item"><a href="/#events" class="header__nav-btn btn btn--primary">Events Programme</a></li>
 		  </ul>
 		</div>
