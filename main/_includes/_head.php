@@ -8,20 +8,20 @@
 <link href="https://fonts.googleapis.com/css2?family=Cousine" rel="stylesheet">
 
 <!-- Primary Meta Tags -->
-<meta name="description" content="">
+<meta name="description" content="Commissioned by Milton Keynes City Council, Archive-opia brings audiences together for a series of FREE taster activities inspired by the fascinating archive collections of Buckinghamshire County Archive, MK City Discovery Centre and The Living Archive MK">
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://mkarchive.city/">
 <meta property="og:title" content="Archive-opia, a playful peep into the Milton Keynes archives">
-<meta property="og:description" content="">
+<meta property="og:description" content="Commissioned by Milton Keynes City Council, Archive-opia brings audiences together for a series of FREE taster activities inspired by the fascinating archive collections of Buckinghamshire County Archive, MK City Discovery Centre and The Living Archive MK">
 <meta property="og:image" content="https://mkarchive.city/assets/img/meta@1x.png">
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:url" content="https://mkarchive.city/">
 <meta property="twitter:title" content="Archive-opia, a playful peep into the Milton Keynes archives">
-<meta property="twitter:description" content="">
+<meta property="twitter:description" content="Commissioned by Milton Keynes City Council, Archive-opia brings audiences together for a series of FREE taster activities inspired by the fascinating archive collections of Buckinghamshire County Archive, MK City Discovery Centre and The Living Archive MK">
 <meta property="twitter:image" content="https://mkarchive.city/assets/img/meta@1x.png">
 
 
