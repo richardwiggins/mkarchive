@@ -76,6 +76,6 @@
 	<div class="text-component">
 		<h3 class="color-accent text-lg">special thanks</h3>
 		
-		<p class="text-sm">Shane Downer, Fiona Boundy, Jenni Ferrans and Kents Hill & Monkston PC, Sophie Lloyd, Mel Jeavons, Roger Kitchen, Rachel Fleet, Simon Beckett, Catherine McIntyre, Noel James, Christopher Low, Callum Walker, Elizabeth Howard, Nana Oguntola, Steve Cousins, Susie Cousins, Vanessa Cook, David Richardson, Meggi Sparkes-Richardson, Michelle Herriman, Jason Men, Leticia Zhan, Richard Woods, Rosa Wilde, Gemmie Poolsiri, Toby Mower, Simone Rots, Michelle Provoost, Stefanie Korell, Poul Mulder, Anouar Kassim, Will Cousins, Victoria Mitchell, Jonny Hill, Kirstie North, Lee Farmer, Richard Harrison, Mark Henman, Amanda Blackwell-Brooks, and all at MK Wanderers FC.</p>
+		<p class="text-sm">Shane Downer, Fiona Boundy, Jenni Ferrans and Kents Hill & Monkston PC, Sophie Lloyd, Mel Jeavons, Roger Kitchen, Rachel Fleet, Simon Beckett, Catherine McIntyre, Noel James, Christopher Low, Callum Walker, Elizabeth Howard, Nana Oguntola, Steve Cousins, Susie Cousins, Vanessa Cook, David Richardson, Meggi Sparkes-Richardson, Michelle Herriman, Jason Men, Leticia Zhan, Richard Woods, Rosa Wilde, Gemmie Poolsiri, Toby Mower, Simone Rots, Michelle Provoost, Stefanie Korell, Poul Mulder, Anouar Kassim, Will Cousins, Victoria Mitchell, Jonny Hill, Kirstie North, Lee Farmer, Richard Harrison, Mark Henman, Amanda Blackwell-Brooks, John Best and all at Arts Central, Ian Talbot, Beverley Lumsdon, The Centre MK, and all at MK Wanderers FC.</p>
 	</div>
 </div>
