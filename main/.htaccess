@@ -5,3 +5,6 @@ RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^(.*)$ $1.php [NC,L]
 
 ErrorDocument 404 /404.php
+
+Redirect 301 /films https://mkarchive.city/films
+Redirect 301 /films2 https://vimeo.com/
