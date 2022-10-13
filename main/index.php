@@ -159,6 +159,87 @@
         </figure>
       </div>
     </div>
+    
+    <div class="container color-white">
+      <ul class="exp-gallery grid gap-xs js-exp-gallery" data-controls="expLightbox">
+        <li class="col-6 col-4@sm col-3@md col-2@lg js-exp-gallery__item">
+          <figure>
+            <img src="assets/img/wiki-kh-4.jpeg" data-modal-src="assets/img/wiki-kh-big-4.jpeg" alt="Image Description">
+            <figcaption class="sr-only js-exp-gallery__caption">Image caption</figcaption>
+          </figure>
+        </li>
+        <li class="col-6 col-4@sm col-3@md col-2@lg js-exp-gallery__item">
+          <figure>
+            <img src="assets/img/wiki-kh-6.jpeg" data-modal-src="assets/img/wiki-kh-big-6.jpeg" alt="Image Description">
+            <figcaption class="sr-only js-exp-gallery__caption">Image caption</figcaption>
+          </figure>
+        </li>
+        <li class="col-6 col-4@sm col-3@md col-2@lg js-exp-gallery__item">
+          <figure>
+            <img src="assets/img/wiki-kh-1.jpeg" data-modal-src="assets/img/wiki-kh-big-1.jpeg" alt="Image Description">
+            <figcaption class="sr-only js-exp-gallery__caption">Image caption</figcaption>
+          </figure>
+        </li>
+        <li class="col-6 col-4@sm col-3@md col-2@lg js-exp-gallery__item">
+          <figure>
+            <img src="assets/img/wiki-kh-12.jpeg" data-modal-src="assets/img/wiki-kh-big-12.jpeg" alt="Image Description">
+            <figcaption class="sr-only js-exp-gallery__caption">Image caption</figcaption>
+          </figure>
+        </li>
+        <li class="col-6 col-4@sm col-3@md col-2@lg js-exp-gallery__item">
+          <figure>
+            <img src="assets/img/wiki-kh-21.jpeg" data-modal-src="assets/img/wiki-kh-big-21.jpeg" alt="Image Description">
+            <figcaption class="sr-only js-exp-gallery__caption">Image caption</figcaption>
+          </figure>
+        </li>
+        <li class="col-6 col-4@sm col-3@md col-2@lg js-exp-gallery__item">
+          <figure>
+            <img src="assets/img/wiki-kh-23.jpeg" data-modal-src="assets/img/wiki-kh-big-23.jpeg" alt="Image Description">
+            <figcaption class="sr-only js-exp-gallery__caption">Image caption</figcaption>
+          </figure>
+        </li>
+      </ul>
+      
+      <div id="expLightbox" class="modal exp-lightbox bg js-modal js-exp-lightbox" data-animation="on" data-modal-first-focus=".js-exp-lightbox__body">
+        <div class="exp-lightbox__content pointer-events-none">
+          <header class="exp-lightbox__header">
+            <h1 class="exp-lightbox__title pointer-events-auto">The WikiPavilion</h1>
+      
+            <menu class="menu-bar menu-bar--expanded@md pointer-events-auto js-menu-bar" data-menu-class="menu--overlay">
+              <li class="menu-bar__item menu-bar__item--trigger js-menu-bar__trigger" role="menuitem" aria-label="More options">
+                <svg class="icon menu-bar__icon" aria-hidden="true" viewBox="0 0 16 16"><circle cx="8" cy="7.5" r="1.5" /><circle cx="1.5" cy="7.5" r="1.5" /><circle cx="14.5" cy="7.5" r="1.5" /></svg>
+              </li>
+            
+              <li class="menu-bar__item js-modal__close" role="menuitem">
+                <svg class="icon menu-bar__icon" aria-hidden="true" viewBox="0 0 24 24"><g stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2" stroke="currentColor" fill="none"><line x1="19" y1="5" x2="5" y2="19"></line><line x1="19" y1="19" x2="5" y2="5"></line></g></svg>
+                <span class="menu-bar__label reset">Close</span>
+              </li>
+            </menu>
+          </header>
+      
+          <div class="exp-lightbox__body slideshow slideshow--transition-slide js-exp-lightbox__body" data-swipe="on" data-navigation="off" data-zoom="on">
+            <ul class="slideshow__content js-exp-lightbox__slideshow">
+              <!-- gallery created in JS -->
+            </ul>
+      
+            <ul>
+              <li class="slideshow__control js-slideshow__control">
+                <button class="reset slideshow__btn pointer-events-auto js-tab-focus">
+                  <svg class="icon" viewBox="0 0 32 32"><title>Show previous slide</title><path d="M20.768,31.395L10.186,16.581c-0.248-0.348-0.248-0.814,0-1.162L20.768,0.605l1.627,1.162L12.229,16 l10.166,14.232L20.768,31.395z"></path></svg>
+                </button>
+              </li>
+          
+              <li class="slideshow__control js-slideshow__control">
+                <button class="reset slideshow__btn pointer-events-auto js-tab-focus">
+                  <svg class="icon" viewBox="0 0 32 32"><title>Show next slide</title><path d="M11.232,31.395l-1.627-1.162L19.771,16L9.605,1.768l1.627-1.162l10.582,14.813 c0.248,0.348,0.248,0.814,0,1.162L11.232,31.395z"></path></svg>
+                </button>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
   </div>
   
   <?php
@@ -166,6 +247,6 @@
   $head .= "/_includes/_footer.php";
   include_once($head);
   ?>
-<script src="/assets/js/scripts.js"></script>
+<script src="/assets/js/scripts.min.js"></script>
 </body>
 </html>

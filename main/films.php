@@ -102,6 +102,6 @@
   $head .= "/_includes/_footer.php";
   include_once($head);
   ?>
-<script src="/assets/js/scripts.js"></script>
+<script src="/assets/js/scripts.min.js"></script>
 </body>
 </html>

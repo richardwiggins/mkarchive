@@ -36,7 +36,7 @@
       
       <h2 id="events" class="color-accent text-lg">Back to the FutureWorld programme</h2>
       
-      <h3 class="color-contrast-medium text-md"><span class="font-secondary">14 October - </span>The 'Lost' FutureWorld Art Trial Workshop</h3>
+      <h3 class="color-contrast-medium text-md"><span class="font-secondary">14 October - </span>The 'Lost' FutureWorld Art Trail Workshop</h3>
       
       <div class="col-10@sm border-2 border-bottom border-contrast-lower padding-bottom-sm margin-bottom-xs">
         <p>Working with invited local schools, this artist-led workshop will explore the little known art trail that accompanied the launch of FutureWorld in 1994. Curated by the late Edna Read - a driving force behind the development of the arts in Milton Keynes - the trail featured 40 or so artworks including a half sunken caravan and a house without walls that were dispersed around the Expo site. Using photos, drawings, and archive documents from the time, local students will creatively re-imagine a new art trail for Kents Hill.</p>
@@ -128,6 +128,6 @@
   $head .= "/_includes/_footer.php";
   include_once($head);
   ?>
-<script src="/assets/js/scripts.js"></script>
+<script src="/assets/js/scripts.min.js"></script>
 </body>
 </html>
