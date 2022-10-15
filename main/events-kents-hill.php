@@ -32,6 +32,14 @@
 			  <p class="text-md text-lg@md font-secondary">14-15 October 2022</p>
         
         <p>The Archive-opia WikiPavilion pops up in Kents Hill on the original exhibition site of FutureWorld - the last of three innovative housing expos in Milton Keynes, held in 1994. Displaying archive images, documents and a new interpretation of the ‘lost’ art trail, the programme also includes three newly commissioned short films, created by The Living Archive MK, documenting insightful conversations between several of the original architects and the current residents of the houses they designed.  Visitors will also be able to explore FutureWorld once more with a self-guided FutureWorld map.</p>
+        
+        <p>A series of three films have also been specially commissioned under the Archive-opia programme, featuring interviews between current residents and the original architects of some of the exhibition houses at FutureWorld.</p>
+        
+        <p class="font-bold">
+          <a href="radiant-house">Watch the Radiant House film</a><br>
+          <a href="riba-futurehouse">Watch the RIBA Future House film</a><br>
+          <a href="turing-house">Watch the Turing House film</a>
+        </p>
 		  </div>
       
       <h2 id="events" class="color-accent text-lg">Back to the FutureWorld programme</h2>
