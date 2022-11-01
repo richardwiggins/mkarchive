@@ -164,38 +164,74 @@
       <ul class="exp-gallery grid gap-xs js-exp-gallery" data-controls="expLightbox">
         <li class="col-6 col-4@sm col-3@md col-2@lg js-exp-gallery__item">
           <figure>
-            <img src="assets/img/wiki-kh-4.jpeg" data-modal-src="assets/img/wiki-kh-big-4.jpeg" alt="Image Description">
-            <figcaption class="sr-only js-exp-gallery__caption">Image caption</figcaption>
+            <img src="assets/img/wiki-kh-4.jpeg" data-modal-src="assets/img/wiki-kh-big-4.jpeg" alt="The WikiPavilion being built in Kents Hill, Milton Keynes">
+            <figcaption class="sr-only js-exp-gallery__caption">The WikiPavilion being built in Kents Hill, Milton Keynes</figcaption>
           </figure>
         </li>
         <li class="col-6 col-4@sm col-3@md col-2@lg js-exp-gallery__item">
           <figure>
-            <img src="assets/img/wiki-kh-6.jpeg" data-modal-src="assets/img/wiki-kh-big-6.jpeg" alt="Image Description">
-            <figcaption class="sr-only js-exp-gallery__caption">Image caption</figcaption>
+            <img src="assets/img/wiki-kh-6.jpeg" data-modal-src="assets/img/wiki-kh-big-6.jpeg" alt="The WikiPavilion being built in Kents Hill, Milton Keynes">
+            <figcaption class="sr-only js-exp-gallery__caption">The WikiPavilion being built in Kents Hill, Milton Keynes</figcaption>
           </figure>
         </li>
         <li class="col-6 col-4@sm col-3@md col-2@lg js-exp-gallery__item">
           <figure>
-            <img src="assets/img/wiki-kh-1.jpeg" data-modal-src="assets/img/wiki-kh-big-1.jpeg" alt="Image Description">
-            <figcaption class="sr-only js-exp-gallery__caption">Image caption</figcaption>
+            <img src="assets/img/wiki-kh-1.jpeg" data-modal-src="assets/img/wiki-kh-big-1.jpeg" alt="The WikiPavilion being built in Kents Hill, Milton Keynes">
+            <figcaption class="sr-only js-exp-gallery__caption">The WikiPavilion being built in Kents Hill, Milton Keynes</figcaption>
           </figure>
         </li>
         <li class="col-6 col-4@sm col-3@md col-2@lg js-exp-gallery__item">
           <figure>
-            <img src="assets/img/wiki-kh-12.jpeg" data-modal-src="assets/img/wiki-kh-big-12.jpeg" alt="Image Description">
-            <figcaption class="sr-only js-exp-gallery__caption">Image caption</figcaption>
+            <img src="assets/img/wiki-kh-12.jpeg" data-modal-src="assets/img/wiki-kh-big-12.jpeg" alt="The WikiPavilion being built in Kents Hill, Milton Keynes">
+            <figcaption class="sr-only js-exp-gallery__caption">The WikiPavilion being built in Kents Hill, Milton Keynes</figcaption>
           </figure>
         </li>
         <li class="col-6 col-4@sm col-3@md col-2@lg js-exp-gallery__item">
           <figure>
-            <img src="assets/img/wiki-kh-21.jpeg" data-modal-src="assets/img/wiki-kh-big-21.jpeg" alt="Image Description">
-            <figcaption class="sr-only js-exp-gallery__caption">Image caption</figcaption>
+            <img src="assets/img/wiki-kh-21.jpeg" data-modal-src="assets/img/wiki-kh-big-21.jpeg" alt="The WikiPavilion being built in Kents Hill, Milton Keynes">
+            <figcaption class="sr-only js-exp-gallery__caption">The WikiPavilion being built in Kents Hill, Milton Keynes</figcaption>
           </figure>
         </li>
         <li class="col-6 col-4@sm col-3@md col-2@lg js-exp-gallery__item">
           <figure>
-            <img src="assets/img/wiki-kh-23.jpeg" data-modal-src="assets/img/wiki-kh-big-23.jpeg" alt="Image Description">
-            <figcaption class="sr-only js-exp-gallery__caption">Image caption</figcaption>
+            <img src="assets/img/wiki-kh-23.jpeg" data-modal-src="assets/img/wiki-kh-big-23.jpeg" alt="The WikiPavilion being built in Kents Hill, Milton Keynes">
+            <figcaption class="sr-only js-exp-gallery__caption">The WikiPavilion being built in Kents Hill, Milton Keynes</figcaption>
+          </figure>
+        </li>
+        <li class="col-6 col-4@sm col-3@md col-2@lg js-exp-gallery__item">
+          <figure>
+            <img src="assets/img/wiki-kh-built-1.jpeg" data-modal-src="assets/img/wiki-kh-big-built-1.jpeg" alt="The WikiPavilion in Kents Hill, Milton Keynes">
+            <figcaption class="sr-only js-exp-gallery__caption">The WikiPavilion in Kents Hill, Milton Keynes</figcaption>
+          </figure>
+        </li>
+        <li class="col-6 col-4@sm col-3@md col-2@lg js-exp-gallery__item">
+          <figure>
+            <img src="assets/img/wiki-kh-built-2.jpeg" data-modal-src="assets/img/wiki-kh-big-built-2.jpeg" alt="The WikiPavilion in Kents Hill, Milton Keynes">
+            <figcaption class="sr-only js-exp-gallery__caption">The WikiPavilion in Kents Hill, Milton Keynes</figcaption>
+          </figure>
+        </li>
+        <li class="col-6 col-4@sm col-3@md col-2@lg js-exp-gallery__item">
+          <figure>
+            <img src="assets/img/wiki-kh-built-3.jpeg" data-modal-src="assets/img/wiki-kh-big-built-3.jpeg" alt="The WikiPavilion in Kents Hill, Milton Keynes">
+            <figcaption class="sr-only js-exp-gallery__caption">The WikiPavilion in Kents Hill, Milton Keynes</figcaption>
+          </figure>
+        </li>
+        <li class="col-6 col-4@sm col-3@md col-2@lg js-exp-gallery__item">
+          <figure>
+            <img src="assets/img/wiki-kh-built-4.jpeg" data-modal-src="assets/img/wiki-kh-big-built-4.jpeg" alt="The WikiPavilion in Kents Hill, Milton Keynes">
+            <figcaption class="sr-only js-exp-gallery__caption">The WikiPavilion in Kents Hill, Milton Keynes</figcaption>
+          </figure>
+        </li>
+        <li class="col-6 col-4@sm col-3@md col-2@lg js-exp-gallery__item">
+          <figure>
+            <img src="assets/img/wiki-kh-built-5.jpeg" data-modal-src="assets/img/wiki-kh-big-built-5.jpeg" alt="The WikiPavilion in Kents Hill, Milton Keynes">
+            <figcaption class="sr-only js-exp-gallery__caption">The WikiPavilion in Kents Hill, Milton Keynes</figcaption>
+          </figure>
+        </li>
+        <li class="col-6 col-4@sm col-3@md col-2@lg js-exp-gallery__item">
+          <figure>
+            <img src="assets/img/wiki-kh-built-6.jpeg" data-modal-src="assets/img/wiki-kh-big-built-6.jpeg" alt="The WikiPavilion in Kents Hill, Milton Keynes">
+            <figcaption class="sr-only js-exp-gallery__caption">The WikiPavilion in Kents Hill, Milton Keynes</figcaption>
           </figure>
         </li>
       </ul>

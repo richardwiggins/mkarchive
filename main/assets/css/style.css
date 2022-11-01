@@ -14460,3 +14460,8 @@ Usage: codyhouse.co/license
   cursor: pointer;
   opacity: 0.85;
 }
+
+.js-exp-gallery__item {
+  display: flex;
+  align-items: center;
+}

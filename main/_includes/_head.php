@@ -1,7 +1,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script>document.getElementsByTagName("html")[0].className += " js";</script>
-<link rel="stylesheet" href="../assets/css/style.min.css?fd7788d">
+<link rel="stylesheet" href="../assets/css/style.min.css?6ghhuui">
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
